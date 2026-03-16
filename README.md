@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GitHub Cover GIF" width="100%" style="height: auto; max-height: 300px;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo1eWg2aTZiZ2ZmMHF2N2dmYzh0Y2Vod2J3cjlxdGdoYzVuNGg0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GitHub Cover GIF" width="100%" style="height: auto; max-height: 300px;">
 </p>
 
 <h1 align="center">Hi , I'm Nithira Dinujaya Peiris</h1>
